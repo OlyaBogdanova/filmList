@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #f9f9f9;
+  font-family: "Roboto Condensed", sans-serif;
+}
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+#app{
+    padding: 20px;
+}
