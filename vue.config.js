@@ -1,1 +1,3 @@
-export const publicPath = "/filmList/";
+module.exports = {
+    publicPath: "/filmList/",
+  }
